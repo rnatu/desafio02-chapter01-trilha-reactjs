@@ -6,8 +6,6 @@ Essa será uma aplicação onde o meu principal objetivo foi refatorar uma p�
 <br/>
 <br/>
 
-
-
 Este Desafio visa o aprendizado com as bases do ReactJS e TypeScript.
 
 ## :man_technologist: As tecnologias utilizadas foram
