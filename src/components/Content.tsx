@@ -20,8 +20,7 @@ interface contendProps {
 }
 
 export function Content(props: contendProps) {
-  // Complete aqui
-
+  
   return (
     <div className="container">
       <header>

@@ -13,7 +13,6 @@ interface sideBarProps {
 }
 
 export function SideBar(props: sideBarProps) {
-  // Complete aqui
 
   return (
     <nav className="sidebar">
