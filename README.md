@@ -12,7 +12,7 @@ Este Desafio visa o aprendizado com as bases do ReactJS e TypeScript.
 
 * ReactJS
   * Babel
-  * Webpackv
+  * Webpack
   * SASS
 * TypeScript
 * Fake API
