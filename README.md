@@ -1,8 +1,7 @@
-<p align="center" style="color: yellow; font-weight: bold ;font-size: 11vw; text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;">
-        Watch<span style="color: white">Me</span>
-</p>
-  
 <h1 align="center">
+<img alig src="./public/logo.svg" width=500 alt="Desafio RocketShoes">
+  <br>
+  <br>
     Chapter 1 - Desafio Complementar
 </h1>
 
