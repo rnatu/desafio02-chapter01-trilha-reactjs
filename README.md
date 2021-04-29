@@ -1,5 +1,4 @@
-<p align="center" style="color: yellow; font-weight: bold ;font-size: 11vw; -webkit-text-stroke-width: 2px;
--webkit-text-stroke-color: #000000;">
+<p align="center" style="color: yellow; font-weight: bold ;font-size: 11vw; text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000;">
         Watch<span style="color: white">Me</span>
 </p>
   
